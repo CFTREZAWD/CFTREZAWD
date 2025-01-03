@@ -15,9 +15,6 @@ I'm Currently working on a Unity multiplayer Game
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CFTREZAWD&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CFTREZAWD&icon=0&color=5)](https://visitcount.itsvg.in)
 
